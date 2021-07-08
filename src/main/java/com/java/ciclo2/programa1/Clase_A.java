@@ -32,7 +32,7 @@ public void valor_var_1(int var_1){
 
 public String infoA1(){
 
-    return "La var 1 = "+variable_1;
+    return "La var 1 = "+variable_1 +"  la var 2 = "+variable_2;
 }
 
 }
