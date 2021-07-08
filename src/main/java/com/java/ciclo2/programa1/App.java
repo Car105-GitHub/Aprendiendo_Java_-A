@@ -7,7 +7,12 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "commit C" );
-        System.out.println( "App" );
+
+        Clase_A clase_mia=new Clase_A();
+
+        System.out.println(clase_mia.infoA1());
+
     }
+    
+  
 }
